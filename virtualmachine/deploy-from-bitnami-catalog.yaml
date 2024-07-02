@@ -1,5 +1,5 @@
 # Example deployment straight from online bitnami catalog, for example:
-# Copy download URL fromhttps://bitnami.com/stack/harbor/virtual-machine and use in following manifest
+# Copy download URL from https://bitnami.com/stack/harbor/virtual-machine and use in following manifest
 apiVersion: vmoperator.vmware.com/v1alpha1
 kind: VirtualMachine
 metadata:
